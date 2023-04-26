@@ -1,2 +1,1 @@
-# Exercicio-Operadores
-# Exercicio-Operadores
+# Operadores
